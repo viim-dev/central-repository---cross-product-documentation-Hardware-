@@ -7,11 +7,13 @@ ViiM is building the hardware and software infrastructure for the creator econom
 
 - **ViiM Visionaire** – AR smart glasses for creators and communities
 - **ViiM Air Glass** – Audio-first wearable for discovery and commerce
+- **Arc Glass** - Laptop/ Glass tablet
+- **ViiM ATM**  - Dual dispenser Fiat and Crypto ATM
 - **Aware VX OS** – Linux-based operating system for AR devices
 - **Illumination App** – Social discovery layer for the ecosystem
 - **PolyCart** – Gamified creator-owned commerce platform (Non ViiM Product)
 - **LUM3N Protocol** – Truth and discovery protocol  (Lumen Foundation Partnership)
-- **ÓWÒ Wallet** – Financial infrastructure for creator ownership
+- **ÓWÒ Wallet** – Financial infrastructure for creator ownership (Partnership)
 
 ## Getting Started
 
